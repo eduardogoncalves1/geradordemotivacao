@@ -2,8 +2,7 @@
 
 Uma aplicação web simples, bonita e responsiva que gera mensagens motivacionais para trazer uma dose diária de inspiração.
 
-[<!-- Você pode tirar um print da sua aplicação e colocar aqui! -->
-<!-- ![Prévia do MindSpark][(caminho/para/sua/imagem.png) ](https://github.com/eduardogoncalves1/geradordemotivacao/blob/edcbec90d0a726ff18673a9da8ab8a5c2675cd02/imagem.png)-->]
+https://github.com/eduardogoncalves1/geradordemotivacao/blob/edcbec90d0a726ff18673a9da8ab8a5c2675cd02/imagem.png
 
 ## 🚀 Sobre o Projeto
 
