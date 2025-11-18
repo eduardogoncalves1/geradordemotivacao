@@ -1,4 +1,4 @@
-# Geradorde motivação ✨
+# Gerador de motivação ✨
 
 Uma aplicação web simples, bonita e responsiva que gera mensagens motivacionais para trazer uma dose diária de inspiração.
 
